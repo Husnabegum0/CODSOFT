@@ -1,3 +1,9 @@
+Smartcalc
+
+🌐 Live Website
+
+https://smartcalcfinal.netlify.app?utm_source=chatgpt.com
+
 # SmartCalc
 
 A minimal, responsive calculator with a soft pastel gradient background. Built with pure HTML, CSS, and JavaScript — no dependencies, no build step.
@@ -54,6 +60,12 @@ python -m http.server 8080
 | `Escape` / `Delete` | Clear all |
 | `%` | Percentage |
 
+Author:
+
+Developed by HUSNA BEGUM
+
 ## License
 
-MIT
+This project is open-source and available under the MIT License
+
+
