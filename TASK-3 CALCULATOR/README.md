@@ -1,8 +1,8 @@
 Smartcalc
 
-🌐 Live Website
+🌐 Live Website 
 
-https://smartcalcfinal.netlify.app?utm_source=chatgpt.com
+https://smartcalcfinal.netlify.app/
 
 # SmartCalc
 
