@@ -1,66 +1,132 @@
-# 🏠 Deconest Interior Studio — Landing Page
+# 🏠 Deconest Interior Studio — Premium Interior Design Landing Page
 
-A **premium, fully responsive** interior design studio landing page built with pure HTML & CSS.  
-Created as an internship project submission.
-
----
-
-## 🚀 Live Demo
-
-> Deploy via **Netlify** (drag & drop `index.html`) or enable **GitHub Pages** from `Settings → Pages → Deploy from branch → main → / (root)`.
+A modern, elegant, and fully responsive interior design studio landing page built using HTML and CSS This project was developed as part of a web development internship to showcase clean UI design, responsive layouts, and professional front-end development practices.
 
 ---
 
-## ✨ Features
+🚀 Live Website
 
-- **Hero Section** — Full-viewport image with animated headline & CTA buttons
-- **About Us** — Overlapping image layout with accent card
-- **6 Services** — Card grid with hover effects and Unsplash imagery
-- **Featured Projects** — Masonry-style gallery with overlay captions
-- **Why Choose Us** — Dark luxury strip with 5 key differentiators
-- **Our Process** — 4-step journey timeline
-- **Testimonials** — 3-column client review cards
-- **Contact Form** — Styled form with success state
-- **Footer** — Full-column layout with social links
+🌐 **View Project:**  
+https://deconestproject.netlify.app/
+
+---
+
+## ✨ Key Features
+
+### Hero Section
+- Full-screen premium background image
+- Elegant typography and call-to-action buttons
+- Responsive design across all devices
+
+### About Us
+- Creative overlapping image layout
+- Company introduction with accent design elements
+
+### Services
+- Six professionally designed service cards
+- Hover animations and modern UI effects
+
+### Featured Projects
+- Gallery-style project showcase
+- Interactive image overlays with project details
+
+### Why Choose Us
+- Luxury-themed highlight section
+- Five key business strengths and differentiators
+
+### Our Process
+- Four-step design journey visualization
+- Easy-to-follow client workflow
+
+### Testimonials
+- Client review cards in a responsive layout
+- Trust-building social proof section
+
+### Contact Section
+- Fully styled contact form
+- User-friendly and responsive design
+
+### Footer
+- Company information
+- Quick links and social media integration
+
+---
 
 ## 🎨 Design System
 
-| Token | Value |
-|---|---|
-| Background | `#F8F4EE` (soft cream) |
-| Primary Text | `#8B6F47` (pastel brown) |
+| Element | Value |
+|----------|---------|
+| Background Color | `#F8F4EE` |
+| Primary Text Color | `#8B6F47` |
 | Accent Gold | `#C9A96E` |
-| Display Font | Cormorant Garamond |
+| Heading Font | Cormorant Garamond |
 | Body Font | Jost |
 
-## 📁 File Structure
+---
 
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- Google Fonts
+- Responsive Web Design
+- Unsplash Images
+
+---
+
+## 📂 Project Structure
+
+```text
+deconestproject/
+│
+├── index.html
+└── README.md
 ```
-deconest/
-├── index.html      ← Main file (Netlify deploy)
-└── README.md       ← This file
-```
 
-## 🌐 Deploy to Netlify
+---
 
-1. Go to [netlify.com](https://netlify.com) → **Add new site → Deploy manually**
-2. Drag & drop the `index.html` file (or the whole folder)
-3. Done — your site is live!
+## 🌐 Deployment
 
-## 🐙 Deploy to GitHub Pages
+### Netlify
 
-1. Create a new GitHub repository
-2. Upload `index.html` and `README.md`
-3. Go to **Settings → Pages → Source → Deploy from branch → main → / (root)**
-4. Click **Save** — live in ~60 seconds
+Live Website:
+https://deconestproject.netlify.app/
+
+### GitHub Pages
+
+1. Create a new GitHub repository.
+2. Upload project files.
+3. Navigate to **Settings → Pages**.
+4. Select:
+   - Source: **Deploy from a branch**
+   - Branch: **main**
+   - Folder: **/(root)**
+5. Save changes and wait for deployment.
+
+---
+
+## 📸 Project Purpose
+
+This project was created to demonstrate:
+
+- Responsive web design
+- Modern landing page development
+- UI/UX design principles
+- Professional front-end development skills
 
 ---
 
 ## ⚠️ Disclaimer
 
-All contact details, addresses, phone numbers, and business information are **for demonstration purposes only**.  
-This is a fictional design concept created as an internship project.
+This website was developed for educational and portfolio purposes as part of an internship project. Business information, contact details, and project content displayed on the website are for demonstration purposes only. Images used belong to their respective owners and are sourced from publicly available resources.
 
 ---
 
-*Built with ♥ using HTML5 & CSS3 — no frameworks, no dependencies.*
+## 👩‍💻 Developer
+
+**Husna Begum**
+
+
+
+🌐 Live Project: https://deconestproject.netlify.app/
+
